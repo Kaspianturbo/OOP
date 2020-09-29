@@ -30,7 +30,25 @@ namespace Lab2_Basics_OOP
         public static void ToConsole(IEnumerable<Flight> flights)
         {
             foreach (Flight flight in flights)
+            {
                 ToConsole(flight);
+            }
+        }
+        public static void TotalToConsole(IEnumerable<Flight> flights)
+        {
+            var totalCost = 0d;
+            var totalPassengers = 0;
+            var totalFlights = 0;
+            foreach (Flight flight in flights)
+            {
+                totalCost += flight.GetZ();
+                totalPassengers += flight.GetK();
+                totalFlights++;
+            }
+
+            Console.WriteLine($"Total flights: {totalFlights}\n" +
+                $"Total passengers: {totalPassengers}\n" +
+                $"Total cost: {totalCost}");
         }
     }
 }
