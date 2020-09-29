@@ -1,0 +1,12 @@
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.exe
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.deps.json
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.dll
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\bin\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.pdb
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.dll
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.pdb
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.genruntimeconfig.cache

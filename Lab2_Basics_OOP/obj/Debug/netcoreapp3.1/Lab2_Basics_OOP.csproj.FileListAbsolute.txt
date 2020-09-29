@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.exe
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.deps.json
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.dll
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\bin\Debug\netcoreapp3.1\Lab2_Basics_OOP.pdb
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.dll
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.pdb
+C:\Users\Victor\Desktop\OOP\Lab2_Basics_OOP\obj\Debug\netcoreapp3.1\Lab2_Basics_OOP.genruntimeconfig.cache
