@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.exe
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.deps.json
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.dll
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\bin\Debug\netcoreapp3.1\Lab4_Overiding_opers.pdb
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.dll
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.pdb
+C:\Users\Victor\Desktop\OOP\Lab4_Overiding_opers\obj\Debug\netcoreapp3.1\Lab4_Overiding_opers.genruntimeconfig.cache

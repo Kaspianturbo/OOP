@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_Basics_OOP", "Lab2_Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_Reusing_classes", "Lab3_Reusing_classes\Lab3_Reusing_classes.csproj", "{9D9BAE20-34A7-41AD-9D64-DFE1FA774E1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_Overiding_opers", "Lab4_Overiding_opers\Lab4_Overiding_opers.csproj", "{E51374C2-EA1F-4840-BFAB-B1F9F5367694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9D9BAE20-34A7-41AD-9D64-DFE1FA774E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D9BAE20-34A7-41AD-9D64-DFE1FA774E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D9BAE20-34A7-41AD-9D64-DFE1FA774E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51374C2-EA1F-4840-BFAB-B1F9F5367694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51374C2-EA1F-4840-BFAB-B1F9F5367694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51374C2-EA1F-4840-BFAB-B1F9F5367694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51374C2-EA1F-4840-BFAB-B1F9F5367694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

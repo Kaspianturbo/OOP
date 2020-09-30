@@ -10,3 +10,4 @@ C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Bas
 C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.dll
 C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.pdb
 C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.genruntimeconfig.cache
+C:\Users\Victor\Desktop\OOP\Lab1_Basiсs_CSharp\obj\Debug\netcoreapp3.1\Lab1_Basiсs_CSharp.csprojAssemblyReference.cache
