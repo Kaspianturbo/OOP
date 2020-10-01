@@ -8,22 +8,22 @@ namespace Lab4_Overiding_opers
     class Vector
     {
         //private int[] arr;
-        public int[] arr { get; private set; }
-        public int Length => arr.Length;
+        public int[] Arr { get; private set; }
+        public int Length => Arr.Length;
         public static int IntervalA { get; set; } = 0;
         public static int IntervalB { get; set; } = 0;
         public Vector(int[] arr)
         {
-            this.arr = arr;
+            this.Arr = arr;
         }
         public static int operator |(Vector v1, Vector v2)
         {
             int res = 0;
-            foreach (int elem in v1.arr)
+            foreach (int elem in v1.Arr)
             {
                 if (elem >= IntervalA && elem <= IntervalB) res++;
             }
-            foreach (int elem in v2.arr)
+            foreach (int elem in v2.Arr)
             {
                 if (elem >= IntervalA && elem <= IntervalB) res++;
             }
@@ -31,13 +31,13 @@ namespace Lab4_Overiding_opers
         }
         public void Add(int elem)
         {
-            var list = arr.ToList();
+            var list = Arr.ToList();
             list.Add(elem);
-            arr = list.ToArray();
+            Arr = list.ToArray();
         }
         public void ToConsole()
         {
-            foreach (int elem in arr)
+            foreach (int elem in Arr)
                 Console.Write(elem + " ");
         }
         //public int[] GetArray() => arr;

@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.exe
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.deps.json
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.dll
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\bin\Debug\netcoreapp3.1\Lab5_Collections.pdb
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.dll
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.pdb
+C:\Users\Victor\Desktop\OOP\Lab5_Collections\obj\Debug\netcoreapp3.1\Lab5_Collections.genruntimeconfig.cache

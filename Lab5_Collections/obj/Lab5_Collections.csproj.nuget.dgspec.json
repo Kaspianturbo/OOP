@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\OOP\\Lab4_Overloading_funcs\\Lab4_Overloading_funcs.csproj": {}
+    "C:\\Users\\Victor\\Desktop\\OOP\\Lab5_Collections\\Lab5_Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\OOP\\Lab4_Overloading_funcs\\Lab4_Overloading_funcs.csproj": {
+    "C:\\Users\\Victor\\Desktop\\OOP\\Lab5_Collections\\Lab5_Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\OOP\\Lab4_Overloading_funcs\\Lab4_Overloading_funcs.csproj",
-        "projectName": "Lab4_Overloading_opers",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\OOP\\Lab4_Overloading_funcs\\Lab4_Overloading_funcs.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\OOP\\Lab5_Collections\\Lab5_Collections.csproj",
+        "projectName": "Lab5_Collections",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\OOP\\Lab5_Collections\\Lab5_Collections.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\OOP\\Lab4_Overloading_funcs\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\OOP\\Lab5_Collections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
