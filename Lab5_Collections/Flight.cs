@@ -25,6 +25,7 @@ namespace Lab5_Collections
             this.R = r;
             this.K = k;
             this.Z = z;
+            AccountS();
         }
         public void AccountS() => S = Z / K;
     }
