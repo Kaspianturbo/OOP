@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.exe
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.deps.json
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.dll
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\bin\Debug\netcoreapp3.1\Lab6_Regex.pdb
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.dll
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.pdb
+C:\Users\Victor\Desktop\OOP\Lab6_Regex\obj\Debug\netcoreapp3.1\Lab6_Regex.genruntimeconfig.cache

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3_Reusing_classes", "Lab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4_Overiding_opers", "Lab4_Overiding_opers\Lab4_Overiding_opers.csproj", "{E51374C2-EA1F-4840-BFAB-B1F9F5367694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_Collections", "Lab5_Collections\Lab5_Collections.csproj", "{A32F4E4A-CB49-4FE0-BC40-9D9473782B9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5_Collections", "Lab5_Collections\Lab5_Collections.csproj", "{A32F4E4A-CB49-4FE0-BC40-9D9473782B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_Regex", "Lab6_Regex\Lab6_Regex.csproj", "{E8A716B7-DEBD-4258-AB37-F53E4A202ABE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A32F4E4A-CB49-4FE0-BC40-9D9473782B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32F4E4A-CB49-4FE0-BC40-9D9473782B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32F4E4A-CB49-4FE0-BC40-9D9473782B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A716B7-DEBD-4258-AB37-F53E4A202ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A716B7-DEBD-4258-AB37-F53E4A202ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A716B7-DEBD-4258-AB37-F53E4A202ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A716B7-DEBD-4258-AB37-F53E4A202ABE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
