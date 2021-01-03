@@ -7,7 +7,6 @@ namespace Lab6_Regex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             string str = Console.ReadLine();
             bool isValid = Analizator.IsValid(str);
             Console.WriteLine(isValid);

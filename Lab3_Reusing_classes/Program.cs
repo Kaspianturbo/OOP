@@ -10,12 +10,12 @@ namespace Lab3_Reusing_classes
             var earh = new Earh();
             var moon = new Moon();
 
-            List<Planet> spaceObjects = new List<Planet>();
+            List<IPlanet> spaceObjects = new List<IPlanet>();
 
             spaceObjects.Add(earh);
             spaceObjects.Add(moon);
 
-            foreach (Planet planet in spaceObjects)
+            foreach (IPlanet planet in spaceObjects)
             {
                 Console.WriteLine(planet.ToString());
                 planet.ReportAboutLife();

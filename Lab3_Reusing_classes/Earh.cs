@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Lab3_Reusing_classes
 {
-    public class Earh : Planet
+    public class Earh : IPlanet
     {
-        public override void ReportAboutLife()
+        public void ReportAboutLife()
         {
             Console.WriteLine("I`m alive. Yeah...");
         }
 
-        public override void ReportAboutMovement()
+        public void ReportAboutMovement()
         {
             Console.WriteLine("Moving near Moon");
         }

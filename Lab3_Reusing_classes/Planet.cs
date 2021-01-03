@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Lab3_Reusing_classes
 {
-    public abstract class Planet
+    public interface IPlanet
     {
-        public abstract void ReportAboutMovement();
-        public abstract void ReportAboutLife();
+        public void ReportAboutMovement();
+        public void ReportAboutLife();
     }
 }

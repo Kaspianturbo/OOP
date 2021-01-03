@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Lab1_Basiсs_CSharp
 {
@@ -6,12 +7,22 @@ namespace Lab1_Basiсs_CSharp
     {
         static void Main(string[] args)
         {
+            Regex regex = new Regex("^([0-9]+[.,])?[0-9]+$");
             double a;
+            bool isValid;
             Console.WriteLine($"Shevchenko Victor \tTime: {DateTime.Now}");
-            Console.Write("Enter a: ");
-            a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine($"ln(a) = {Math.Log(a)}");
-            Console.ReadKey();
+            do {           
+                Console.Write("Enter a: ");
+                string input = Console.ReadLine();
+                isValid = regex.IsMatch(input);
+                if (isValid == true)
+                {
+                    a = Convert.ToDouble(input);
+                    Console.WriteLine($"ln(a) = {Math.Log(a)}");
+                    Console.ReadKey();
+                }
+                else Console.WriteLine("Bad try. Enter valid data.");
+            } while (!isValid);
         }
     }
 }

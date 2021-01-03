@@ -10,8 +10,14 @@ namespace Lab4_Overiding_opers
         //private int[] arr;
         public int[] Arr { get; private set; }
         public int Length => Arr.Length;
+        //public static int intervalA = 0;
+        //public static int intervalB = 0;
         public static int IntervalA { get; set; } = 0;
         public static int IntervalB { get; set; } = 0;
+        public Vector()
+        {
+            this.Arr = new int[0];
+        }
         public Vector(int[] arr)
         {
             this.Arr = arr;
@@ -39,6 +45,8 @@ namespace Lab4_Overiding_opers
         {
             foreach (int elem in Arr)
                 Console.Write(elem + " ");
+            Console.WriteLine();
+
         }
         //public int[] GetArray() => arr;
     }

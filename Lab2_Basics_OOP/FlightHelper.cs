@@ -31,6 +31,7 @@ namespace Lab2_Basics_OOP
         {
             foreach (Flight flight in flights)
             {
+                flight.AccountS();
                 ToConsole(flight);
             }
         }

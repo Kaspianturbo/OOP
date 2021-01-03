@@ -1,0 +1,12 @@
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.exe
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.deps.json
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.dll
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\bin\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.pdb
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.dll
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.pdb
+C:\Users\Victor\Desktop\OOP\Lab3.1_Reusing_classes\obj\Debug\netcoreapp3.1\Lab3.1_Reusing_classes.genruntimeconfig.cache

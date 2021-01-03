@@ -1,0 +1,13 @@
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.exe
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.deps.json
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.runtimeconfig.json
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.dll
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\bin\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.pdb
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.AssemblyInfo.cs
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.dll
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.pdb
+C:\Users\Victor\Desktop\OOP\Lab1.2_Basics_CSharp\obj\Debug\netcoreapp3.1\Lab1.2_Basics_CSharp.genruntimeconfig.cache
